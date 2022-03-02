@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		1D6B15DC27CEFF7700339087 /* Try it Out: Stacks and Queues 7.2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Try it Out: Stacks and Queues 7.2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D6B15DF27CEFF7700339087 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1D6B15E627CEFFC100339087 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		1D6B15E727CF37DF00339087 /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				1D6B15DF27CEFF7700339087 /* main.cpp */,
+				1D6B15E627CEFFC100339087 /* Person.h */,
+				1D6B15E727CF37DF00339087 /* LinkedList.h */,
 			);
 			path = "Try it Out: Stacks and Queues 7.2";
 			sourceTree = "<group>";
